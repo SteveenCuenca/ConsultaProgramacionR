@@ -1,2 +1,2 @@
 # ConsultaProgramacionR
-Consulta para la semana 10
+Consulta para la semana 10.
